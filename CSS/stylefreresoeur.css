@@ -1,0 +1,6 @@
+h1 ~ p {
+    font-weight: bold;
+    background-color:red;
+    color: #fff;
+    padding: .5em;
+}

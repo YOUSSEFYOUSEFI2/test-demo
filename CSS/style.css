@@ -1,0 +1,27 @@
+h1 {
+	color: red;
+	font-family: roboto;
+	text-align: center;
+}
+
+.x{
+    color:blue
+  }
+
+#blue-bordered {
+    border: 5px dashed blue;
+    text-align:center;
+ }
+
+ .box p{
+    color: red;
+}  
+
+article > p {
+    font-weight: bold;
+    background-color: #333;
+    color: #fff;
+    padding: .5em;
+}
+
+ 
